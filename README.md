@@ -3,7 +3,7 @@
 A sleek, modern, and fully responsive personal portfolio website designed to showcase my skills, services, projects, and testimonials. Built with a clean UI/UX layout featuring a custom color palette, smooth navigation, and premium interactive hover elements.
 
 ## 🚀 Live Demo
-🔗 [Live Link Coming Soon / Insert Your Link Here]
+🔗 [Live Link https://icsumaiya.github.io/My_Personal_Portfolio/]
 
 ## ✨ Features
 - **Modern UI/UX:** Built with a clean geometric layout using custom polygons and a professional color scheme.
