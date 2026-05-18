@@ -25,4 +25,5 @@ A sleek, modern, and fully responsive personal portfolio website designed to sho
 └── README.md           # Project documentation
 
 ```
-## Author: Sumaiya Islam Chowdhury
+## 📝 Author
+**Sumaiya Islam Chowdhury**
